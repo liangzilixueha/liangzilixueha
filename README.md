@@ -15,7 +15,6 @@
             color: #000;
         }
     </style>
-    <!--创建一个首页链接到百度-->
     <div style="text-align: center;">
         <a href="http://www.baidu.com" class="first">百度</a>
     </div>
